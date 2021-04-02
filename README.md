@@ -20,5 +20,5 @@ Składniki drinka to: Sok ananasowy, Likier malibu, Mleko kokosowe w proporcjach
 --------------------------------------------------------------------------------------------
 
 @KKMalysa:
-Ponieważ zadanie jest odrobinę za proste, postanowiłem przy okazji posłużyć się wzorcem projektowym.
+Ponieważ zadanie jest odrobinę za proste, postanowiłem wzbogacić je o wzorzec projektowy.
 Zgadnij proszę którym - jeśli łatwo rozpoznałeś, to znaczy, że zrobiłem to dobrze ;)
