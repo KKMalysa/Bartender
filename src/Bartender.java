@@ -1,13 +1,10 @@
-import drink.Components;
+import drink.AlcoholDrinkType;
+import drink.AlcoholFreeDrinkType;
 import drink.Drink;
 
-public class Bartender {
+public abstract  class Bartender {
 
-    public static void main(String[] args) {
+    abstract Drink makeAlcoholDrink(AlcoholDrinkType alcoDrink);
+    abstract Drink makeAlcoholFreeDrink(AlcoholFreeDrinkType alcoFreeDrink);
 
-        public static Drink createDrink (){
-            return Drink;
-        }
-
-    }
 }
