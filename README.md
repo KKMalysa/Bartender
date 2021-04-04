@@ -1,3 +1,7 @@
+ponieważ zadanie jest odrobinę za proste, postanowiłem wzbogacić je o wzorzec projektowy. 
+Zgadnij proszę który - jeśli łatwo rozpoznałeś, to znaczy, że zrobiłem to dobrze ;)     
+
+-------------------------------------------------------------------------------------------
 # Bartender
 
 Zdefiniuj klasę Barman, która posiada metodę createDrink przyjmującą jako argumenty 
@@ -18,7 +22,3 @@ Oczekiwany wynik to:
 --------------------------------------------------------------------------------------------
 Składniki drinka to: Sok ananasowy, Likier malibu, Mleko kokosowe w proporcjach 0.40, 0.20, 0.40.Jego pojemność to 250ml
 --------------------------------------------------------------------------------------------
-
-@KKMalysa:
-Ponieważ zadanie jest odrobinę za proste, postanowiłem wzbogacić je o wzorzec projektowy. 
-Zgadnij proszę który - jeśli łatwo rozpoznałeś, to znaczy, że zrobiłem to dobrze ;) 
